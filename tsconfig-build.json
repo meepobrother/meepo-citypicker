@@ -21,7 +21,7 @@
         "annotateForClosureCompiler": true,
         "strictMetadataEmit": true,
         "flatModuleOutFile": "index.js",
-        "flatModuleId": "imeepos-ng-template",
+        "flatModuleId": "meepo-citypicker",
         "skipTemplateCodegen": true
     }
 }
