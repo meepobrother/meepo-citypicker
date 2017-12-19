@@ -10,4 +10,4 @@ import { VersionnComponent } from './version';
     exports: [],
     providers: [],
 })
-export class AppModule {}
+export class MeepoModule {}
